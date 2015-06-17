@@ -1,6 +1,12 @@
 Project 2 of FullStack Nanodegree by Udacity
 
+What is it?
+-----------
 Project is designed to introduce concepts in relational databases using PostgreSQL
+
+Requirements
+------------
+PostgreSQL, python-psycopg2, itertools
 
 -- To Run This Assignment 
 1. In terminal within the vagrant folder, type "vagrant up"
